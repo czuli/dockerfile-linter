@@ -34,4 +34,4 @@ lint_dockerfile:
 * [Development Repository](https://gitlab.com/TheYorkshireDev/dockerfile-linter)
 * [Report Issues on GitLab](https://gitlab.com/TheYorkshireDev/dockerfile-linter/issues)
 * [Repository CI & CD](https://gitlab.com/TheYorkshireDev/dockerfile-linter/pipelines)
-
+* [Dockerfile Linter (written in Node.js)](https://github.com/buddy-works/dockerfile-linter)
